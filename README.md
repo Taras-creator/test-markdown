@@ -36,4 +36,3 @@ Computer | 1600  | 3
 Phone    | 12    | 2
 Pipe     | 1     | 1 
 
-<h1>Text</h1>
